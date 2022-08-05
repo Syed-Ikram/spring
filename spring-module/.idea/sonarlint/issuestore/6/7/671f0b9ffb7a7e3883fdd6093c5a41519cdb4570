@@ -1,0 +1,4 @@
+
+
+java:S1319""sThe return type of this method should be an interface such as "Map" rather than the implementation "LinkedHashMap".(­ÓÌøÿÿÿÿ
+m	java:S116"SRename this field "LastName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş‡àıÿÿÿÿ
